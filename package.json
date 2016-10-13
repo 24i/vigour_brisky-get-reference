@@ -1,6 +1,6 @@
 {
   "name": "brisky-get-reference",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Get's the referenced vigour-base object",
   "main": "lib/index.js",
   "scripts": {
@@ -29,7 +29,7 @@
     "Shawn Inder <shawn@vigour.io>"
   ],
   "dependencies": {
-     "bubleify": "^0.5.1"
+    "bubleify": "^0.5.1"
   },
   "engines": {},
   "devDependencies": {

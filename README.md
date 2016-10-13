@@ -20,10 +20,10 @@ Get's the referenced [vigour-base](https://www.npmjs.com/package/vigour-base) ob
 <!-- VDOC END -->
 
 ```javascript
-var Base = require('vigour-base')
-var getReference = require('brisky-get-reference')
+const Base = require('vigour-base')
+const getReference = require('brisky-get-reference')
 
-var a = new Base({})
-var b = new Base(a)
+const a = new Base({})
+const b = new Base(a)
 getReference(b) // a
 ```

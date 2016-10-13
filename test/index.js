@@ -1,11 +1,11 @@
 'use strict'
 
-var test = require('tape')
-var Base = require('vigour-base')
-var getReference = require('../')
+const test = require('tape')
+const Base = require('vigour-base')
+const getReference = require('../')
 
-var a = new Base({})
-var b = new Base(a)
+const a = new Base({})
+const b = new Base(a)
 
 test('getReference', function (t) {
   t.plan(2)

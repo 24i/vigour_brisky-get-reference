@@ -1,6 +1,6 @@
 {
   "name": "brisky-get-reference",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Get's the referenced vigour-base object",
   "main": "lib/index.js",
   "scripts": {

@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vigour-io/get-reference.git"
+    "url": "git+https://github.com/vigour-io/brisky-get-reference.git"
   },
   "keywords": [
     "vigour-base",
@@ -21,9 +21,9 @@
   "author": "Vigour.io <dev@vigour.io>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vigour-io/get-reference/issues"
+    "url": "https://github.com/vigour-io/brisky-get-reference/issues"
   },
-  "homepage": "https://github.com/vigour-io/get-reference#readme",
+  "homepage": "https://github.com/vigour-io/brisky-get-reference#readme",
   "contributors": [
     "Jim De Beer <jim@vigour.io>",
     "Shawn Inder <shawn@vigour.io>"

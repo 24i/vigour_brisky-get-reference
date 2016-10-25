@@ -1,4 +1,4 @@
-# get-reference
+# brisky-get-reference
 
 <!-- VDOC.badges travis; standard; npm; coveralls -->
 <!-- DON'T EDIT THIS SECTION (including comments), INSTEAD RE-RUN `vdoc` TO UPDATE -->
